@@ -1,0 +1,6 @@
+Hello! Do you need some Support? Here are five steps to a quick resolution.
+Are we experiencing a system wide issue? Check the status above, or visit our status page.
+If you haven't done so already, check our extensive docs.
+The Netlify Community is a lively, open forum where both Netlify Support Engineers and our amazing global community of savvy developers answer questions. You can find answers to our most common questions linked below.
+Experiencing a Billing Issue, need Login Assistance, seeing some Fraud, or in need of a Site/DNS Transfer? Please use the form - those options are valid for members of all account levels.
+Teams on paid plans have access to private email support for all issues via the form. Not sure if what you need is within our scope of support? Here is a breakdown. Want to learn more about customizable support add-ons?
